@@ -1,7 +1,7 @@
 {
-  "name": "simple-draco",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@laturge/simple-draco",
+  "version": "1.0.1",
+  "description": "Wrapper for Draco3D",
   "main": "index.js",
   "scripts": {
     "build": "browserify --standalone SimpleDraco index.js > build/bundle.js",
